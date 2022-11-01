@@ -32,7 +32,7 @@ It will take a lot of computing resources and time to calculate the sub-grid sky
 
 Reference:
 Huang, A., Gu, C., Zhang, Y., et al. (2022). Development of a Clear‐Sky 3D Sub‐Grid Terrain Solar Radiative Effect Parameterization Scheme Based on the Mountain Radiation Theory. Journal of Geophysical Research: Atmospheres, 127(13). https://doi.org/10.1029/2022jd036449
-Gu, C., Huang, A., Zhang, Y., et al. (2022). The Wet Bias of RegCM4 over Tibet Plateau in Summer Reduced by Adopting the 3D Sub-grid Terrain Solar Radiative Effect. Manuscript submitted to Journal of Geophysical Research: Atmospheres. [Paper #2022JD037434, Under Review] 
+Gu, C., Huang, A., Zhang, Y., et al. (2022). The wet bias of RegCM4 over Tibet Plateau in summer reduced by adopting the 3D sub-grid terrain solar radiative effect parameterization scheme. Journal of Geophysical Research: Atmospheres, 127, e2022JD037434. https://doi.org/10.1029/2022JD037434
 
 If there’s any question, please feel free to contact us.
 
